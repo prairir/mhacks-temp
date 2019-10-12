@@ -1,20 +1,30 @@
-from parse import parse
-from flask import Flask, jsonify
+from parse import retMag
+from flask import Flask, jsonify, request, render_template
 
 
 app = Flask(__name__)
 
+@app.route('/')
+def index():
+    return render_template('index.html')
 
-@app.route('/<text>')
-def example(text):
-    exam = jsonify(parse(text))
-    print(exam)
+
+@app.route('/getMag')
+def example():
+    test = request.json
+
     return exam
+
+
 
 
 '''
 www\.cbc\.ca\/news\/(.*)
 www\.foxnews\.com\/\w+\/(.*)
+cnn\.com/\S+
+www\.usatoday\.com\/story\/\w+\/\S+
+www\.nbcnews.com\/\S+
+www\.forbes\.com\/sites\/\w+\/(\d+\/){3}\S+
 
 '''
 
