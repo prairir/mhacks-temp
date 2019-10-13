@@ -1,0 +1,14 @@
+#!/bin/bash
+rm -rf ./templates
+
+mkdir -p ./templates
+
+cp feelter/*.html templates/
+
+rm -rf ./static
+
+
+cp -r feelter/static ./static
+
+#mv ./static/*/* ./static/
+

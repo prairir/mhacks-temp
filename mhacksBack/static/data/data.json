@@ -1,0 +1,573 @@
+[{
+
+		"id": 1,
+		"category":"World",
+		"image": "1.png",
+		"title": "Fighting in syria :C",
+		"type": "url",
+		"content": "https://www.cbc.ca/news/politics/jack-letts-syria-turkey-artillery-1.5319047",
+		"description": "Turkish artillery reportedly struck the northern Syrian prison holding the British-Canadian Jack Letts — who is accused of being a supporter of the ...",
+		"user_name":"Sean",
+		"user_image": "sean.png",
+
+		"results": {
+			"score": 1,
+			"magnitude": 1,
+			"labels": ["sad"]
+		}
+	},
+
+	{
+	
+		"id": 2,
+		"category": "Environment",
+		"image": "2.png",
+		"title": "The Whole World is on Fire",
+		"type": "url",
+		"content": "https://www.nbcnews.com/news/us-news/fired-epa-scientists-release-air-pollution-report-they-say-agency-n1064456",
+		"description": "Our planet is dying and by doing nothing we might as well be the ones killing it",
+		"user_name":"Amanda",
+		"user_image":"amanda.png",
+
+		"results": {
+			"score": 1,
+			"magnitude": 1,
+			"labels": ["sad"]
+		}
+	},
+
+	{
+		
+		"id": 3,
+		"category": "Random",
+		"image": "3.png",
+		"title": "Yard work",
+		"type": "text",
+		"content": "Just got done cutting the grass, hows the lawn look? I think it looks lovely.",
+		"description": "Just got done cutting the grass, hows the lawn look? I think it looks lovely.",
+		"user_name": "John",
+		"user_image":"john.png",
+
+		"results": {
+			"score": 1,
+			"magnitude": 1,
+			"labels": ["meh"]
+		}
+	},
+
+	{
+		
+		"id": 4,
+		"category": "Environment",
+		"image": "4.png",
+		"title": "Incompetence in Cali",
+		"type": "url",
+		"content": "https://www.usatoday.com/story/news/nation/2019/10/11/bury-california-power-lines-wildfire-blackout-fix-unlikely-work/3946935002/",
+		"description": "Imagine a world where lawmakers and government actually cared about their populace and made decisions for the better, hah!",
+		"user_name": "Carlita",
+		"user_image": "carlita.png",
+
+		"results": {
+			"score": 1,
+			"magnitude": 1,
+			"labels": ["sad"]
+		}
+	},
+
+	{
+		
+		"id": 5,
+		"category": "Random",
+		"image": "5.png",
+		"title": "Birthday Boy!!!",
+		"type": "text",
+		"content": "Hey all! My baby boy Jeffrey just turned one! Isn't it crazy how fast the time goes? I almost dont believe its been a whole year since he shined his light onto our lives, love you baby <3",
+		"description": "Hey all! My baby boy Jeffrey just turned one! Isn't it crazy how fast the time goes? I almost dont believe its been a whole year since he shined his light onto our lives, love you baby <3",
+		"user_name": "Beth",
+		"user_image":"beth.png",
+
+		"results": {
+			"score": 1,
+			"magnitude": 1,
+			"labels": ["happy"]
+		}
+	},
+
+	{
+		
+		"id": 6,
+		"category": "Random",
+		"image": "none",
+		"title": "yo did anyone do the calc homework last night",
+		"type": "text",
+		"content": "dm me please im failing this class",
+		"description": "dm me please im failing this class",
+		"user_name": "Dan",
+		"user_image":"dan.png",
+
+		"results": {
+			"score": 1,
+			"magnitude": 1,
+			"labels": ["meh"]
+		}
+	},
+
+	{
+		
+		"id": 7,
+		"category": "Animals",
+		"image": "7.png",
+		"title": "OMG I want one",
+		"type": "url",
+		"content": "https://www.cbc.ca/news/canada/calgary/calgary-zoo-baby-king-penguin-1.5254766",
+		"description": "Ok so this baby penguin is very small and very cute and I N E E D it",
+		"user_name": "Taylor",
+		"user_image":"taylor.png",
+
+		"results": {
+			"score": 1,
+			"magnitude": 1,
+			"labels": ["happy"]
+		}
+	},
+
+	{
+		
+		"id": 8,
+		"category": "Cars",
+		"image": "8.png",
+		"title": "Interesting promotion",
+		"type": "url",
+		"content": "https://www.foxnews.com/auto/south-carolina-ford-dealer-guns",
+		"description": "Ok then, I guess this exists lmao. Buying a car at this dealership comes bundled with a gun.I hope the ad works for them I guess?",
+		"user_name": "Kevin",
+		"user_image":"kevin.png",
+
+		"results": {
+			"score": 1,
+			"magnitude": 1,
+			"labels": ["meh"]
+		}
+	},
+
+	{
+		
+		"id": 9,
+		"category": "Cars",
+		"image": "9.png",
+		"title": "Convertible C8 revealed!!",
+		"type": "url",
+		"content": "https://www.cnn.com/2019/10/02/cars/2020-corvette-convertible/index.html",
+		"description": "For my money, this model is drop dead gorgeous. I'm still undecided on whether the coupe is nicer or this! What do yall think?",
+		"user_name": "Rita",
+		"user_image":"rita.png",
+
+		"results": {
+			"score": 1,
+			"magnitude": 1,
+			"labels": ["happy"]
+		}
+	},
+
+	{
+		
+		"id": 10,
+		"category": "World",
+		"image": "10.png",
+		"title": "Typhoon in Japan",
+		"type": "text",
+		"content": "https://www.nbcnews.com/news/world/japan-advises-hundreds-thousands-evacuate-powerful-typhoon-approaches-n1065346",
+		"description": "People in Japan are preparing for the worst, I hope nothing bad will come their way <3 please share this post to spread awareness",
+		"user_name": "Kyle",
+		"user_image":"kyle.png",
+
+		"results": {
+			"score": 1,
+			"magnitude": 1,
+			"labels": ["sad"]
+		}
+	},
+
+	{
+		
+		"id": 11,
+		"category":"Environment",
+		"image": "11.png",
+		"title": "A little light in the dark",
+		"type": "url",
+		"content": "https://www.forbes.com/sites/kensilverstein/2019/10/08/the-hydrogen-economy-is-within-grasp-and-progressive-energy-companies-know-it/#67f4e8184eb6",
+		"description": "In contrast with most of the depressing stuff around the climate crisis right now, heres some hope for the future! Companies are using clean energy sources to produce hydrogen which combats climate change!",
+		"user_name":"Sean",
+		"user_image": "sean.png",
+
+		"results": {
+			"score": 1,
+			"magnitude": 1,
+			"labels": ["happy"]
+		}
+	},
+
+	{
+	
+		"id": 12,
+		"category": "Environment",
+		"image": "2.png",
+		"title": "The PM of Ethiopia just won the Nobel Peace Prize!",
+		"type": "url",
+		"content": "https://www.nbcnews.com/news/world/ethiopian-prime-minister-abiy-ahmed-awarded-nobel-peace-prize-n1064901",
+		"description": "This is really great to see, hard work by honest people pays off! Here's a great snippet from him \" Peace does not arise from the actions of one party alone \" :)! ",
+		"user_name":"Amanda",
+		"user_image":"amanda.png",
+
+		"results": {
+			"score": 1,
+			"magnitude": 1,
+			"labels": ["happy"]
+		}
+	},
+
+
+	{
+		
+		"id": 13,
+		"category": "Sports",
+		"image": "13.png",
+		"title": "Why does god hate my football team?",
+		"type": "url",
+		"content": "https://www.cbc.ca/sports/football/cfl/cfl-toronto-ottawa-recap-oct-11-1.5318888",
+		"description": "There are no words in any earthly dictionary to express the level of sheer frustration and stress watching this godforsaken football team stumble around for an hour and a half on plastic grass ",
+		"user_name": "John",
+		"user_image":"john.png",
+
+		"results": {
+			"score": 1,
+			"magnitude": 1,
+			"labels": ["sad"]
+		}
+	},
+
+	{
+		
+		"id": 14,
+		"category": "Pop Culture",
+		"image": "14.png",
+		"title": "This the dude that broke Kylie's heart?",
+		"type": "text",
+		"content": "smh ASAP Rocky wildin",
+		"description": "smh ASAP Rocky wildin",
+		"user_name": "Carlita",
+		"user_image": "carlita.png",
+
+		"results": {
+			"score": 1,
+			"magnitude": 1,
+			"labels": ["meh"]
+		}
+	},
+
+	{
+		
+		"id": 15,
+		"category": "Pop Culture",
+		"image": "15.png",
+		"title": "Justin Bieber remixes 50 Cent",
+		"type": "url",
+		"content": "https://www.foxnews.com/entertainment/justin-bieber-50-cent-raps-hailey-baldwin-depression-many-men-remix",
+		"description": "Whats next, Betty White gonna work with Snoop Dogg?",
+		"user_name": "Beth",
+		"user_image":"beth.png",
+
+		"results": {
+			"score": 1,
+			"magnitude": 1,
+			"labels": ["meh"]
+		}
+	},
+
+	{
+		
+		"id": 16,
+		"category": "Pop Culture",
+		"image": "16.png",
+		"title": "Why does lil baby look like a pt cruiser",
+		"type": "text",
+		"content": "guys im serious this doesnt even make any sense like how can someones head be built in that particular way like what cruel monster looked at him and said \"yep looks good\" like wtf",
+		"description": "guys im serious this doesnt even make any sense like how can someones head be built in that particular way like what cruel monster looked at him and said \"yep looks good\" like wtf",
+		"user_name": "Dan",
+		"user_image":"dan.png",
+
+		"results": {
+			"score": 1,
+			"magnitude": 1,
+			"labels": ["meh"]
+		}
+	},
+
+	{
+		
+		"id": 17,
+		"category": "Technology",
+		"image": "17.png",
+		"title": "QC Ware in Quantum Cloud Computing",
+		"type": "url",
+		"content": "https://www.forbes.com/sites/alexknapp/2019/09/27/qc-ware-joins-the-growing-ranks-of-companies-offering-quantum-computing-cloud-services/#6e6ee38c7e57",
+		"description": "Dude I don't even know how to change the brightness on my toaster wtf is a quantum-cloud-downtown-clown computer? But honestly if anyone could give me a breakdown that'd be sick. This stuff scares me lol",
+		"user_name": "Taylor",
+		"user_image":"taylor.png",
+
+		"results": {
+			"score": 1,
+			"magnitude": 1,
+			"labels": ["meh"]
+		}
+	},
+
+	{
+		
+		"id": 18,
+		"category": "World",
+		"image": "18.png",
+		"title": "True North Strong in Fear",
+		"type": "url",
+		"content": "https://www.cbc.ca/news/politics/elizabeth-may-green-party-racism-1.5318023",
+		"description": "Green Party Leader Elizabeth May said today that Canada is \"awash\" in racism and the country has to do a better job of confronting it. For a country which prides itself on inclusivness, we sure are indecisive when it comes to solving these issues...",
+		"user_name": "Kevin",
+		"user_image":"kevin.png",
+
+		"results": {
+			"score": 1,
+			"magnitude": 1,
+			"labels": ["meh"]
+		}
+	},
+
+	{
+		
+		"id": 19,
+		"category": "Technology",
+		"image": "19.png",
+		"title": "Facebook uses deepfakes to combat deepfakes",
+		"type": "url",
+		"content": "https://www.cnn.com/2019/09/05/tech/facebook-deepfake-detection-challenge/index.html",
+		"description": "There are widespread concerns about whether social media companies are ready to fight a new wave of videos doctored with artificial intelligence, often called deepfakes. Facebook's current solution: make even more deepfakes itself. Fight fire with fire!",
+		"user_name": "Rita",
+		"user_image":"rita.png",
+
+		"results": {
+			"score": 1,
+			"magnitude": 1,
+			"labels": ["meh"]
+		}
+	},
+
+	{
+		
+		"id": 20,
+		"category": "Random",
+		"image": "none",
+		"title": "yoooooo",
+		"type": "text",
+		"content": "Has anyone ever realized that racecar backwards is racecar, taco cat backwards is taco cat, and youre frown backwards is a smiel :)",
+		"description": "Has anyone ever realized that racecar backwards is racecar, taco cat backwards is taco cat, and youre frown backwards is a smiel :)",
+		"user_name": "Kyle",
+		"user_image":"kyle.png",
+
+		"results": {
+			"score": 1,
+			"magnitude": 1,
+			"labels": ["meh"]
+		}
+	},
+
+	{
+		
+		"id": 21,
+		"category":"Animals",
+		"image": "21.png",
+		"title": "Dogs are the fountain of youth",
+		"type": "url",
+		"content": "https://www.usatoday.com/story/news/health/2019/10/08/aha-journal-study-owning-dog-may-help-you-live-longer/3907770002/",
+		"description": "In other news, people with dogs live longer than people who dont. So naturally the conclusion is that everyone should get a dog ;P What are some of your guys favourite dogs? I'm partial to small dogs myself, they are so lively!",
+		"user_name":"Sean",
+		"user_image": "sean.png",
+
+		"results": {
+			"score": 1,
+			"magnitude": 1,
+			"labels": ["happy"]
+		}
+	},
+
+	{
+	
+		"id": 22,
+		"category": "World",
+		"image": "22.png",
+		"title": "The Feminist Artist Who Created The Selfie Nearly 100 Years Ago",
+		"type": "url",
+		"content": "https://www.forbes.com/sites/gracebanks/2019/07/05/the-feminist-artist-who-created-the-selfie-nearly-100-years-ago/#5907fa996b83",
+		"description": "Maria Lassnig was a selfie artist decades before it was a trend. The painter was prolific in her creation of figurative painting ― particularly figures of herself ― from then on...",
+		"user_name":"Amanda",
+		"user_image":"amanda.png",
+
+		"results": {
+			"score": 1,
+			"magnitude": 1,
+			"labels": ["happy"]
+		}
+	},
+
+	{
+		
+		"id": 23,
+		"category": "World",
+		"image": "23.png",
+		"title": "Network of Ancient Mayan Farms Uncovered",
+		"type": "url",
+		"content": "https://www.nbcnews.com/mach/science/laser-scanning-tech-uncovers-huge-network-ancient-maya-farms-ncna1065286",
+		"description": "Apparently they just found out these old Mayan farms from like a bajillion years ago, check this out. I wonder what they used to grow, and what subsidies the government gave them xD!!",
+		"user_name": "John",
+		"user_image":"john.png",
+
+		"results": {
+			"score": 1,
+			"magnitude": 1,
+			"labels": ["meh"]
+		}
+	},
+
+	{
+		
+		"id": 24,
+		"category": "Random",
+		"image": "24.png",
+		"title": "Damn man they scamming 2 year olds now lmaoo",
+		"type": "url",
+		"content": "https://www.cbc.ca/radio/asithappens/ontario-woman-spends-hundreds-for-son-to-meet-youtube-star-blippi-who-won-t-be-there-1.5318139",
+		"description": "This lady payed hundreds of bucks to let her kid meet this guy named Blippi and it turns out he never even showed xD Real talk tho don't let your kids get addicted to stuff like this or it ends bad for your bank, as you can see...",
+		"user_name": "Carlita",
+		"user_image": "carlita.png",
+
+		"results": {
+			"score": 1,
+			"magnitude": 1,
+			"labels": ["sad"]
+		}
+	},
+
+	{
+		
+		"id": 25,
+		"category": "Pop Culture",
+		"image": "25.png",
+		"title": "Joaquin Phoenix Owns Up to a Fender Bender",
+		"type": "url",
+		"content": "https://www.foxnews.com/entertainment/joker-star-joaquin-phoenix-does-the-unthinkable-after-accident-with-paramedics-truck-report",
+		"description": "Joaquin Pheonix hit a car in a parking lot, and instead of just moving along, he went out of his way to find the other person and help them, what a good guy!",
+		"user_name": "Beth",
+		"user_image":"beth.png",
+
+		"results": {
+			"score": 1,
+			"magnitude": 1,
+			"labels": ["happy"]
+		}
+	},
+
+	{
+		
+		"id": 26,
+		"category": "Environment",
+		"image": "26.png",
+		"title": "Climate change threatening two-thirds of species in U.S. with extinction",
+		"type": "url",
+		"content": "https://www.usatoday.com/story/news/nation/2019/10/10/climate-change-threatens-majority-america-birds-extinction-audubon-report/3917735002/",
+		"description": "About two-thirds of America's birds will be threatened with extinction if global warming rises by 5.4 degrees Fahrenheit by 2100, according to a report released Thursday from the National Audubon Society, a bird-focused conservation group",
+		"user_name": "Dan",
+		"user_image":"dan.png",
+
+		"results": {
+			"score": 1,
+			"magnitude": 1,
+			"labels": ["sad"]
+		}
+	},
+
+	{
+		
+		"id": 27,
+		"category": "World",
+		"image": "27.png",
+		"title": "Girl, 15, charged with murder in stabbing on Washington DC Metro train",
+		"type": "url",
+		"content": "https://www.foxnews.com/us/stabbed-washington-dc-metro-murder",
+		"description": "This is such a tragedy all around... ;( pray for the children",
+		"user_name": "Taylor",
+		"user_image":"taylor.png",
+
+		"results": {
+			"score": 1,
+			"magnitude": 1,
+			"labels": ["sad"]
+		}
+	},
+
+	{
+		
+		"id": 28,
+		"category": "World",
+		"image": "28.png",
+		"title": "Scheer, Singh make confident pitch to voters, Trudeau targets both as polls move to favour Conservatives",
+		"type": "url",
+		"content": "https://www.cbc.ca/news/politics/scheer-singh-voters-election-pitch-1.5319507",
+		"description": "Election season is really heating up, its a whole one man race now!",
+		"user_name": "Kevin",
+		"user_image":"kevin.png",
+
+		"results": {
+			"score": 1,
+			"magnitude": 1,
+			"labels": ["meh"]
+		}
+	},
+
+	{
+		
+		"id": 29,
+		"category": "Technology",
+		"image": "29.png",
+		"title": "When Steph Curry Has Your Back: The SnapTravel Story",
+		"type": "url",
+		"content": "https://www.forbes.com/sites/cognitiveworld/2019/10/03/when-steph-curry-has-your-back-the-snaptravel-story/?ss=ai#5c6859c69973",
+		"description": "Steph Curry is doing some cool things right now investing in tech startups! More than just a baller, hes a BALLER!!",
+		"user_name": "Rita",
+		"user_image":"rita.png",
+
+		"results": {
+			"score": 1,
+			"magnitude": 1,
+			"labels": ["happy"]
+		}
+	},
+
+	{
+		
+		"id": 30,
+		"category": "World",
+		"image": "30.png",
+		"title": "Brooklyn shooting leaves four dead",
+		"type": "url",
+		"content": "https://www.cnn.com/2019/10/12/us/four-dead-in-brooklyn-shooting/index.html",
+		"description": "You cant help but break l ittle inside reading stuff like this :c",
+		"user_name": "Kyle",
+		"user_image":"kyle.png",
+
+		"results": {
+			"score": 1,
+			"magnitude": 1,
+			"labels": ["sad"]
+		}	
+	}
+
+
+]
